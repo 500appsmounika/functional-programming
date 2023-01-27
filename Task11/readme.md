@@ -8,3 +8,4 @@ const newArray = arr.slice(1, 3);
 newArray would have the value ["Dog", "Tiger"].
 
 Use the slice method in the sliceArray function to return part of the anim array given the provided beginSlice and endSlice indices. The function should return an array.
+URL:https://drive.500apps.com/93c49c58

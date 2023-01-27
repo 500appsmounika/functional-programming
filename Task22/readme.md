@@ -11,3 +11,4 @@ numbers.every(function(currentValue) {
 The every method would return false here.
 
 Use the every method inside the checkPositive function to check if every element in arr is positive. The function should return a Boolean value.
+URL:https://drive.500apps.com/2659d6a4

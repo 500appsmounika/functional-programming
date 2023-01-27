@@ -11,3 +11,4 @@ numbers.some(function(currentValue) {
 The some method would return true.
 
 Use the some method inside the checkPositive function to check if any element in arr is positive. The function should return a Boolean value.
+URL:https://drive.500apps.com/4e56385a
